@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspEducation", "AspEducation\AspEducation.csproj", "{2659C775-64E6-4AFA-913A-9E5967CD94FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2659C775-64E6-4AFA-913A-9E5967CD94FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2659C775-64E6-4AFA-913A-9E5967CD94FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2659C775-64E6-4AFA-913A-9E5967CD94FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2659C775-64E6-4AFA-913A-9E5967CD94FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
