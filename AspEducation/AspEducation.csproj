@@ -5,12 +5,32 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Content Remove="Views\Shared\HeaderPartial.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
       <Folder Include="Areas\Admin\Controllers" />
       <Folder Include="Areas\Admin\Views" />
       <Folder Include="Controllers" />
       <Folder Include="Domain" />
       <Folder Include="Models\ViewComponents" />
       <Folder Include="Sevice" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Watch Remove="Views\Shared\HeaderPartial.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <UpToDateCheckInput Remove="Views\Shared\HeaderPartial.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Views\Shared\HeaderPartial.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Include="Views\Shared\HeaderPartial.cshtml" />
     </ItemGroup>
 
 </Project>
