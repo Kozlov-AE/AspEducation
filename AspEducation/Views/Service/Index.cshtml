@@ -1,0 +1,25 @@
+@using AspEducation.Domain.Entities
+@model IQueryable<AspEducation.Domain.Entities.ServiceItem>
+@{
+    TextField textField = ViewBag.TextField;
+    ViewBag.Title = Model.MetaTitle;
+    ViewBag.Description = Model.MetaDescription;
+    ViewBag.KeyWords = Model.MetaKeywords;
+}
+<div>
+    @if (@Model.Any())
+    {
+        <ul class="big-image-list">
+            @foreach (var i in Model)
+            {
+                <li>
+                    <a asp-area="" asp-controller="Services" asp-action="Index" asp-route-id="@i.Id">
+                        <img src="~/images/@i.TitleImagePath" alt="" class="left"/>
+                    </a>
+                    <h4>@i.Title</h4>
+                    <p>@i.Subtitle</p>
+                </li>
+            }
+        </ul>
+    }
+</div>

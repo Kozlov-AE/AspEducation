@@ -12,31 +12,76 @@
           </e>
         </e>
         <e p="AspEducation.csproj" t="IncludeRecursive" />
-        <e p="Controllers" t="Include" />
-        <e p="Domain" t="Include" />
+        <e p="Controllers" t="Include">
+          <e p="AccountController.cs" t="Include" />
+          <e p="HomeController.cs" t="Include" />
+          <e p="ServicesController.cs" t="Include" />
+        </e>
+        <e p="Domain" t="Include">
+          <e p="AppDbContext.cs" t="Include" />
+          <e p="DataManager.cs" t="Include" />
+          <e p="Entities" t="Include">
+            <e p="EntityBase.cs" t="Include" />
+            <e p="ServiceItem.cs" t="Include" />
+            <e p="TextField.cs" t="Include" />
+          </e>
+          <e p="Repositories" t="Include">
+            <e p="Abstract" t="Include">
+              <e p="IServiceItemsRepository.cs" t="Include" />
+              <e p="ITextFieldsRepository.cs" t="Include" />
+            </e>
+            <e p="EntityFramework" t="Include">
+              <e p="EFServiceItemsRepository.cs" t="Include" />
+              <e p="EFTextFieldsRepository.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="Models" t="Include">
-          <e p="ViewComponents" t="Include" />
+          <e p="ViewComponents" t="Include">
+            <e p="SidebarViewComponent.cs" t="Include" />
+          </e>
         </e>
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="launchSettings.json" t="Include" />
         </e>
-        <e p="Sevice" t="Include" />
+        <e p="Sevice" t="Include">
+          <e p="Config.cs" t="Include" />
+        </e>
         <e p="Startup.cs" t="Include" />
         <e p="Views" t="Include">
+          <e p="Home" t="Include">
+            <e p="Contacts.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Service" t="Include">
+            <e p="Index.cshtml" t="Include" />
+            <e p="Show.cshtml" t="Include" />
+          </e>
           <e p="Shared" t="Include">
+            <e p="CssPartial.cshtml" t="Include" />
+            <e p="FooterPartial.cshtml" t="Include" />
+            <e p="HeaderPartial.cshtml" t="Include" />
+            <e p="MetatagsPartial.cshtml" t="Include" />
+            <e p="ScriptsPartial.cshtml" t="Include" />
+            <e p="SidebarPartial.cshtml" t="Include" />
             <e p="_Layout.cshtml" t="Include" />
           </e>
-          <e p="ViewImports.cshtml" t="Include" />
+          <e p="_ViewImports.cshtml" t="Include" />
           <e p="_ViewStart.cshtml" t="Include" />
         </e>
-        <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
+        <e p="appsettings.production.json" t="Include" />
+        <e p="appsettings.staging.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="bundleconfig.json" t="Include" />
+        <e p="compilerconfig.json" t="Include" />
+        <e p="compilerconfig.json.defaults" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
               <e p="AspEducation.AssemblyInfo.cs" t="Include" />
+              <e p="AspEducation.RazorAssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
@@ -44,6 +89,7 @@
           <e p="css" t="Include">
             <e p="fontawesome-all.min.css" t="Include" />
             <e p="main.css" t="Include" />
+            <e p="main.min.css" t="Include" />
           </e>
           <e p="images" t="Include">
             <e p="banner.jpg" t="Include" />
@@ -554,6 +600,8 @@
             </e>
             <e p="jquery.min.js" t="Include" />
             <e p="main.js" t="Include" />
+            <e p="scripts.js" t="Include" />
+            <e p="scripts.min.js" t="Include" />
             <e p="util.js" t="Include" />
           </e>
           <e p="sass" t="Include">

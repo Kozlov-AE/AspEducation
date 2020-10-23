@@ -1,0 +1,21 @@
+@model AspEducation.Domain.Entities.ServiceItem
+
+@{
+    ViewBag.Title = Model.MetaTitle;
+    ViewBag.Description = Model.MetaDescription;
+    ViewBag.KeyWords = Model.MetaKeywords;
+}
+<div>
+    <H1>
+        @Model.Title
+    </h1>
+    <H2>
+        @Model.Subtitle
+    </h2>
+    <div>
+        <img src="~/images/@Model.TitleImagePath"
+    </div>
+</div>
+<div>
+    @Html.Raw(Model.Text)
+</div>

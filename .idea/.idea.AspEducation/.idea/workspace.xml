@@ -13,403 +13,37 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28804ba2-1338-46f8-801c-e9e5f7d96612" name="Default Changelist" comment="FirstCommit">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AspEducation/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AspEducation/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AspEducation/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AspEducation/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AspEducation/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AspEducation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AspEducation/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/Views/ViewImports.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/Views/_ViewStart.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/css/fontawesome-all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/images/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/images/bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/images/icon-bubble.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/images/mobileUI-site-nav-opener-bg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/images/pic1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/images/pic2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/images/pic3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/images/pic4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/images/pic5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/images/pic6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/breakpoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/browser.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/CHANGES.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/adapters/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/build-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/ckeditor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/contents.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/af.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/ar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/az.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/bg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/bn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/bs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/de-ch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/de.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/el.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/en-au.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/en-ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/en-gb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/eo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/es-mx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/es.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/et.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/eu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/fa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/fo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/fr-ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/fr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/gl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/gu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/he.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/hi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/hr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/hu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/id.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/is.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/ja.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/ka.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/km.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/ko.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/ku.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/lt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/lv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/mk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/mn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/ms.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/nb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/nl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/no.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/oc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/pl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/pt-br.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/pt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/ro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/ru.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/si.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/sk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/sl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/sq.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/sr-latn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/sr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/sv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/th.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/tr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/tt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/ug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/uk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/vi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/lang/zh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/az.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/en-au.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/es-mx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/oc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/about/dialogs/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/about/dialogs/logo_ckeditor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/clipboard/dialogs/paste.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/dialog/dialogDefinition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/dialog/styles/dialog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/icons_hidpi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/image/dialogs/image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/image/images/noimage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/link/dialogs/anchor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/link/dialogs/link.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/link/images/anchor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/link/images/hidpi/anchor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/magicline/images/hidpi/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/magicline/images/icon-rtl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/magicline/images/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/pastefromgdocs/filter/default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/pastefromword/filter/default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/pastetools/filter/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/pastetools/filter/image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/scayt/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/scayt/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/scayt/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/scayt/dialogs/dialog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/scayt/dialogs/options.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/scayt/dialogs/toolbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/af.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/ar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/az.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/bg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/de.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/el.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/en-au.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/en-ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/eo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/es-mx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/es.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/et.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/eu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/fa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/fr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/gl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/he.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/hr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/hu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/id.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/ja.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/km.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/ko.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/ku.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/lt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/lv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/nb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/nl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/no.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/oc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/pl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/pt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/ro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/ru.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/si.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/sk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/sl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/sq.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/sr-latn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/sr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/sv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/th.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/tr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/tt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/ug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/uk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/vi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/lang/zh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/specialchar/dialogs/specialchar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/table/dialogs/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/tableselection/styles/tableselection.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/tabletools/dialogs/tableCell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/widget/images/handle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/wsc/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/wsc/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/wsc/dialogs/ciframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/wsc/dialogs/wsc.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/wsc/dialogs/wsc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/wsc/dialogs/wsc_ie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/css/samples.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/img/github-top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/img/header-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/img/header-separator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/img/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/img/navigation-tip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/js/sample.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/js/sf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/ajax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/api.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/appendto.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/assets/inlineall/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/assets/outputxhtml/outputxhtml.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/assets/posteddata.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/assets/sample.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/assets/uilanguages/languages.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/datafiltering.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/dialog/assets/my_dialog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/dialog/dialog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/divreplace.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/enterkey/enterkey.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.fla" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/htmlwriter/assets/outputforflash/swfobject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/htmlwriter/outputforflash.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/htmlwriter/outputhtml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/inlineall.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/inlinebycode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/inlinetextarea.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/jquery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/magicline/magicline.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/readonly.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/replacebyclass.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/replacebycode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/sample.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/sample.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/sample_posteddata.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/tabindex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/toolbar/toolbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/uicolor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/uilanguages.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/wysiwygarea/fullpage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/old/xhtmlstyle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/css/fontello.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/font/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/font/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/font/fontello.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/font/fontello.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/font/fontello.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/font/fontello.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/js/abstracttoolbarmodifier.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/js/fulltoolbareditor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/js/toolbarmodifier.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/js/toolbartextmodifier.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/lib/codemirror/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/dialog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/dialog_ie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/dialog_ie8.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/dialog_iequirks.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/editor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/editor_gecko.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/editor_ie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/editor_ie8.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/editor_iequirks.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/icons_hidpi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/images/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/images/hidpi/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/images/hidpi/lock-open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/images/hidpi/lock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/images/hidpi/refresh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/images/lock-open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/images/lock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/images/refresh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/images/spinner.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/skins/moono-lisa/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/ckeditor/vendor/promise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/js/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/sass/libs/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/sass/libs/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/sass/libs/_html-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/sass/libs/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/sass/libs/_vars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/sass/libs/_vendor.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/sass/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/wwwroot/webfonts/fa-solid-900.woff2" afterDir="false" />
+    <list default="true" id="28804ba2-1338-46f8-801c-e9e5f7d96612" name="Default Changelist" comment="Начал разбивать дизайн на части">
+      <change afterPath="$PROJECT_DIR$/AspEducation.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspEducation/Controllers/AccountController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspEducation/Controllers/ServicesController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspEducation/Models/ViewComponents/SidebarViewComponent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspEducation/Views/Home/Contacts.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspEducation/Views/Service/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AspEducation/Views/Service/Show.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AspEducation/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AspEducation/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AspEducation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AspEducation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AspEducation/AspEducation.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AspEducation/AspEducation.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AspEducation/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AspEducation/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AspEducation/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AspEducation/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AspEducation/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AspEducation/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AspEducation/Views/Shared/FooterPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AspEducation/Views/Shared/FooterPartial.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AspEducation/Views/Shared/HeaderPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AspEducation/Views/Shared/HeaderPartial.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AspEducation/Views/Shared/HeaderPartial1.cshtml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/159224D0-13F6-4502-9BAF-C2A1B93604F7/6C/IActionResult.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/00E4CC82-435B-478C-B083-227A479F9D7B/1D8/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -419,7 +53,23 @@
         <option value="$USER_HOME$/Загрузки/ASPEducation/twocolumn2.html" />
         <option value="$PROJECT_DIR$/AspEducation/Views/Shared/_Layout.cshtml" />
         <option value="$PROJECT_DIR$/AspEducation/Views/_ViewStart.cshtml" />
+        <option value="$PROJECT_DIR$/AspEducation/Views/_ViewStart.cshtml.cs" />
         <option value="$PROJECT_DIR$/AspEducation/Views/ViewImports.cshtml" />
+        <option value="$PROJECT_DIR$/AspEducation/Views/Shared/HeaderPartial.cshtml" />
+        <option value="$PROJECT_DIR$/AspEducation/Views/Shared/FooterPartial.cshtml" />
+        <option value="$PROJECT_DIR$/AspEducation/Program.cs" />
+        <option value="$PROJECT_DIR$/AspEducation/Controllers/AccauntController.cs" />
+        <option value="$PROJECT_DIR$/AspEducation/Controllers/AccountController.cs" />
+        <option value="$PROJECT_DIR$/AspEducation/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/AspEducation/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/AspEducation/Views/Home/Contacts.cs" />
+        <option value="$PROJECT_DIR$/AspEducation/Views/Home/Contacts.cshtml" />
+        <option value="$PROJECT_DIR$/AspEducation/Controllers/ServicesController.cs" />
+        <option value="$PROJECT_DIR$/AspEducation/Views/Service/Services.cshtml" />
+        <option value="$PROJECT_DIR$/AspEducation/Views/Service/Show.cshtml" />
+        <option value="$PROJECT_DIR$/AspEducation/Models/ViewComponents/gh.cs" />
+        <option value="$PROJECT_DIR$/AspEducation/Models/ViewComponents/SidebarViewComponent.cs" />
+        <option value="$PROJECT_DIR$/AspEducation/Controllers/ddd.cs" />
       </list>
     </option>
   </component>
@@ -432,6 +82,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34988362" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30023274" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -444,8 +95,8 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Publish to IIS.Publish AspEducation to IIS">
-    <configuration name="Publish AspEducation to IIS" type="DotNetMsBuildPublish" factoryName="Publish to IIS" temporary="true">
+  <component name="RunManager" selected=".NET Launch Settings Profile.AspEducation: IIS Express">
+    <configuration name="Publish AspEducation to IIS" type="DotNetMsBuildPublish" factoryName="Publish to IIS">
       <riderPublish uuid_high="2763459153386425082" uuid_low="-7981893282729978628" />
       <method v="2" />
     </configuration>
@@ -479,11 +130,6 @@
         <option name="Build" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Publish to IIS.Publish AspEducation to IIS" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -493,7 +139,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603354233921</updated>
-      <workItem from="1603354245381" duration="5543000" />
+      <workItem from="1603354245381" duration="5868000" />
+      <workItem from="1603437849324" duration="1325000" />
+      <workItem from="1603443121655" duration="7572000" />
+      <workItem from="1603459273210" duration="534000" />
+      <workItem from="1603459870063" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1603355555516</created>
@@ -502,13 +152,20 @@
       <option name="project" value="LOCAL" />
       <updated>1603355555516</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Начал разбивать дизайн на части">
+      <created>1603360056283</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603360056283</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -520,101 +177,116 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="FirstCommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="FirstCommit" />
+    <MESSAGE value="Начал разбивать дизайн на части" />
+    <option name="LAST_COMMIT_MESSAGE" value="Начал разбивать дизайн на части" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1320" height="249" key="GridCell.Tab.0.bottom" timestamp="1603355441939">
+    <state x="278" y="16" width="802" height="707" key="#Plugins" timestamp="1603437882516">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.0.bottom/0.0.1366.743@0.0.1366.743" timestamp="1603355441939" />
-    <state width="1320" height="249" key="GridCell.Tab.0.center" timestamp="1603355441938">
+    <state x="278" y="16" width="802" height="707" key="#Plugins/0.0.1366.743@0.0.1366.743" timestamp="1603437882516" />
+    <state x="392" y="175" width="573" height="388" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603459063203">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.0.center/0.0.1366.743@0.0.1366.743" timestamp="1603355441938" />
-    <state width="1320" height="249" key="GridCell.Tab.0.left" timestamp="1603355441938">
+    <state x="392" y="175" width="573" height="388" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.743@0.0.1366.743" timestamp="1603459063203" />
+    <state width="1320" height="178" key="GridCell.Tab.0.bottom" timestamp="1603459125148">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.0.left/0.0.1366.743@0.0.1366.743" timestamp="1603355441938" />
-    <state width="1320" height="249" key="GridCell.Tab.0.right" timestamp="1603355441939">
+    <state width="1320" height="178" key="GridCell.Tab.0.bottom/0.0.1366.743@0.0.1366.743" timestamp="1603459125148" />
+    <state width="1320" height="178" key="GridCell.Tab.0.center" timestamp="1603459125147">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.0.right/0.0.1366.743@0.0.1366.743" timestamp="1603355441939" />
-    <state width="1320" height="249" key="GridCell.Tab.1.bottom" timestamp="1603355441940">
+    <state width="1320" height="178" key="GridCell.Tab.0.center/0.0.1366.743@0.0.1366.743" timestamp="1603459125147" />
+    <state width="1320" height="178" key="GridCell.Tab.0.left" timestamp="1603459125147">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.1.bottom/0.0.1366.743@0.0.1366.743" timestamp="1603355441940" />
-    <state width="1320" height="249" key="GridCell.Tab.1.center" timestamp="1603355441939">
+    <state width="1320" height="178" key="GridCell.Tab.0.left/0.0.1366.743@0.0.1366.743" timestamp="1603459125147" />
+    <state width="1320" height="178" key="GridCell.Tab.0.right" timestamp="1603459125148">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.1.center/0.0.1366.743@0.0.1366.743" timestamp="1603355441939" />
-    <state width="1320" height="249" key="GridCell.Tab.1.left" timestamp="1603355441939">
+    <state width="1320" height="178" key="GridCell.Tab.0.right/0.0.1366.743@0.0.1366.743" timestamp="1603459125148" />
+    <state width="1320" height="249" key="GridCell.Tab.1.bottom" timestamp="1603360117743">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.1.left/0.0.1366.743@0.0.1366.743" timestamp="1603355441939" />
-    <state width="1320" height="249" key="GridCell.Tab.1.right" timestamp="1603355441939">
+    <state width="1320" height="249" key="GridCell.Tab.1.bottom/0.0.1366.743@0.0.1366.743" timestamp="1603360117743" />
+    <state width="1320" height="249" key="GridCell.Tab.1.center" timestamp="1603360117743">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.1.right/0.0.1366.743@0.0.1366.743" timestamp="1603355441939" />
-    <state width="1320" height="249" key="GridCell.Tab.2.bottom" timestamp="1603355441941">
+    <state width="1320" height="249" key="GridCell.Tab.1.center/0.0.1366.743@0.0.1366.743" timestamp="1603360117743" />
+    <state width="1320" height="249" key="GridCell.Tab.1.left" timestamp="1603360117742">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.2.bottom/0.0.1366.743@0.0.1366.743" timestamp="1603355441941" />
-    <state width="1320" height="249" key="GridCell.Tab.2.center" timestamp="1603355441940">
+    <state width="1320" height="249" key="GridCell.Tab.1.left/0.0.1366.743@0.0.1366.743" timestamp="1603360117742" />
+    <state width="1320" height="249" key="GridCell.Tab.1.right" timestamp="1603360117743">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.2.center/0.0.1366.743@0.0.1366.743" timestamp="1603355441940" />
-    <state width="1320" height="249" key="GridCell.Tab.2.left" timestamp="1603355441940">
+    <state width="1320" height="249" key="GridCell.Tab.1.right/0.0.1366.743@0.0.1366.743" timestamp="1603360117743" />
+    <state width="1320" height="249" key="GridCell.Tab.2.bottom" timestamp="1603360117744">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.2.left/0.0.1366.743@0.0.1366.743" timestamp="1603355441940" />
-    <state width="1320" height="249" key="GridCell.Tab.2.right" timestamp="1603355441940">
+    <state width="1320" height="249" key="GridCell.Tab.2.bottom/0.0.1366.743@0.0.1366.743" timestamp="1603360117744" />
+    <state width="1320" height="249" key="GridCell.Tab.2.center" timestamp="1603360117743">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.2.right/0.0.1366.743@0.0.1366.743" timestamp="1603355441940" />
-    <state width="1320" height="249" key="GridCell.Tab.3.bottom" timestamp="1603355441941">
+    <state width="1320" height="249" key="GridCell.Tab.2.center/0.0.1366.743@0.0.1366.743" timestamp="1603360117743" />
+    <state width="1320" height="249" key="GridCell.Tab.2.left" timestamp="1603360117743">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.3.bottom/0.0.1366.743@0.0.1366.743" timestamp="1603355441941" />
-    <state width="1320" height="249" key="GridCell.Tab.3.center" timestamp="1603355441941">
+    <state width="1320" height="249" key="GridCell.Tab.2.left/0.0.1366.743@0.0.1366.743" timestamp="1603360117743" />
+    <state width="1320" height="249" key="GridCell.Tab.2.right" timestamp="1603360117743">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.3.center/0.0.1366.743@0.0.1366.743" timestamp="1603355441941" />
-    <state width="1320" height="249" key="GridCell.Tab.3.left" timestamp="1603355441941">
+    <state width="1320" height="249" key="GridCell.Tab.2.right/0.0.1366.743@0.0.1366.743" timestamp="1603360117743" />
+    <state width="1320" height="249" key="GridCell.Tab.3.bottom" timestamp="1603360117744">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.3.left/0.0.1366.743@0.0.1366.743" timestamp="1603355441941" />
-    <state width="1320" height="249" key="GridCell.Tab.3.right" timestamp="1603355441941">
+    <state width="1320" height="249" key="GridCell.Tab.3.bottom/0.0.1366.743@0.0.1366.743" timestamp="1603360117744" />
+    <state width="1320" height="249" key="GridCell.Tab.3.center" timestamp="1603360117744">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.3.right/0.0.1366.743@0.0.1366.743" timestamp="1603355441941" />
-    <state width="1320" height="249" key="GridCell.Tab.4.bottom" timestamp="1603355441942">
+    <state width="1320" height="249" key="GridCell.Tab.3.center/0.0.1366.743@0.0.1366.743" timestamp="1603360117744" />
+    <state width="1320" height="249" key="GridCell.Tab.3.left" timestamp="1603360117744">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.4.bottom/0.0.1366.743@0.0.1366.743" timestamp="1603355441942" />
-    <state width="1320" height="249" key="GridCell.Tab.4.center" timestamp="1603355441942">
+    <state width="1320" height="249" key="GridCell.Tab.3.left/0.0.1366.743@0.0.1366.743" timestamp="1603360117744" />
+    <state width="1320" height="249" key="GridCell.Tab.3.right" timestamp="1603360117744">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.4.center/0.0.1366.743@0.0.1366.743" timestamp="1603355441942" />
-    <state width="1320" height="249" key="GridCell.Tab.4.left" timestamp="1603355441942">
+    <state width="1320" height="249" key="GridCell.Tab.3.right/0.0.1366.743@0.0.1366.743" timestamp="1603360117744" />
+    <state width="1320" height="249" key="GridCell.Tab.4.bottom" timestamp="1603360117745">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.4.left/0.0.1366.743@0.0.1366.743" timestamp="1603355441942" />
-    <state width="1320" height="249" key="GridCell.Tab.4.right" timestamp="1603355441942">
+    <state width="1320" height="249" key="GridCell.Tab.4.bottom/0.0.1366.743@0.0.1366.743" timestamp="1603360117745" />
+    <state width="1320" height="249" key="GridCell.Tab.4.center" timestamp="1603360117745">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1320" height="249" key="GridCell.Tab.4.right/0.0.1366.743@0.0.1366.743" timestamp="1603355441942" />
+    <state width="1320" height="249" key="GridCell.Tab.4.center/0.0.1366.743@0.0.1366.743" timestamp="1603360117745" />
+    <state width="1320" height="249" key="GridCell.Tab.4.left" timestamp="1603360117745">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state width="1320" height="249" key="GridCell.Tab.4.left/0.0.1366.743@0.0.1366.743" timestamp="1603360117745" />
+    <state width="1320" height="249" key="GridCell.Tab.4.right" timestamp="1603360117745">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state width="1320" height="249" key="GridCell.Tab.4.right/0.0.1366.743@0.0.1366.743" timestamp="1603360117745" />
     <state x="406" y="74" width="545" height="591" key="RollbackChangesDialog" timestamp="1603356417230">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="406" y="74" width="545" height="591" key="RollbackChangesDialog/0.0.1366.743@0.0.1366.743" timestamp="1603356417230" />
-    <state x="278" y="94" width="802" height="550" key="Vcs.Push.Dialog.v2" timestamp="1603356333054">
+    <state x="100" y="100" width="1168" height="544" key="VCS.FileHistoryDialog" timestamp="1603445563495">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="278" y="94" width="802" height="550" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1603356333054" />
+    <state x="100" y="100" width="1168" height="544" key="VCS.FileHistoryDialog/0.0.1366.743@0.0.1366.743" timestamp="1603445563495" />
+    <state x="278" y="94" width="802" height="550" key="Vcs.Push.Dialog.v2" timestamp="1603360060427">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="278" y="94" width="802" height="550" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1603360060427" />
     <state x="600" y="150" width="157" height="439" key="VcsDiffUtil.ChangesDialog" timestamp="1603356439329">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
