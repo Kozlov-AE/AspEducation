@@ -13,23 +13,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28804ba2-1338-46f8-801c-e9e5f7d96612" name="Default Changelist" comment="Начал разбивать дизайн на части">
-      <change afterPath="$PROJECT_DIR$/AspEducation.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/Controllers/AccountController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/Controllers/ServicesController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/Models/ViewComponents/SidebarViewComponent.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/Views/Home/Contacts.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/Views/Service/Index.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AspEducation/Views/Service/Show.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AspEducation/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AspEducation/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="28804ba2-1338-46f8-801c-e9e5f7d96612" name="Default Changelist" comment="Поделал на работе">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AspEducation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AspEducation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AspEducation/AspEducation.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AspEducation/AspEducation.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AspEducation/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AspEducation/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AspEducation/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AspEducation/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AspEducation/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AspEducation/Views/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AspEducation/Views/Shared/FooterPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AspEducation/Views/Shared/FooterPartial.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AspEducation/Views/Shared/HeaderPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AspEducation/Views/Shared/HeaderPartial.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AspEducation/Views/Shared/HeaderPartial1.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AspEducation/Models/ViewComponents/SidebarViewComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AspEducation/Models/ViewComponents/SidebarViewComponent.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +54,8 @@
         <option value="$PROJECT_DIR$/AspEducation/Views/Service/Services.cshtml" />
         <option value="$PROJECT_DIR$/AspEducation/Views/Service/Show.cshtml" />
         <option value="$PROJECT_DIR$/AspEducation/Models/ViewComponents/gh.cs" />
-        <option value="$PROJECT_DIR$/AspEducation/Models/ViewComponents/SidebarViewComponent.cs" />
         <option value="$PROJECT_DIR$/AspEducation/Controllers/ddd.cs" />
+        <option value="$PROJECT_DIR$/AspEducation/Models/ViewComponents/SidebarViewComponent.cs" />
       </list>
     </option>
   </component>
@@ -93,6 +79,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.AspEducation: IIS Express">
@@ -143,7 +130,8 @@
       <workItem from="1603437849324" duration="1325000" />
       <workItem from="1603443121655" duration="7572000" />
       <workItem from="1603459273210" duration="534000" />
-      <workItem from="1603459870063" duration="306000" />
+      <workItem from="1603459870063" duration="385000" />
+      <workItem from="1603460758158" duration="54000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1603355555516</created>
@@ -159,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603360056283</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Поделал на работе">
+      <created>1603460190271</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603460190272</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +179,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="FirstCommit" />
     <MESSAGE value="Начал разбивать дизайн на части" />
-    <option name="LAST_COMMIT_MESSAGE" value="Начал разбивать дизайн на части" />
+    <MESSAGE value="Поделал на работе" />
+    <option name="LAST_COMMIT_MESSAGE" value="Поделал на работе" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="16" width="802" height="707" key="#Plugins" timestamp="1603437882516">
@@ -275,10 +271,18 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state width="1320" height="249" key="GridCell.Tab.4.right/0.0.1366.743@0.0.1366.743" timestamp="1603360117745" />
+    <state x="278" y="107" width="802" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1603460146849">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="278" y="107" width="802" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1366.743@0.0.1366.743" timestamp="1603460146849" />
     <state x="406" y="74" width="545" height="591" key="RollbackChangesDialog" timestamp="1603356417230">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="406" y="74" width="545" height="591" key="RollbackChangesDialog/0.0.1366.743@0.0.1366.743" timestamp="1603356417230" />
+    <state x="187" y="7" key="SettingsEditor" timestamp="1603460251980">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="187" y="7" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1603460251980" />
     <state x="100" y="100" width="1168" height="544" key="VCS.FileHistoryDialog" timestamp="1603445563495">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
