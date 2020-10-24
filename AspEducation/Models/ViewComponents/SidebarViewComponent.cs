@@ -13,9 +13,9 @@ namespace AspEducation.Models.ViewComponents
             this.datamanager = datamanager;
         }
 
-        public Task<ViewComponentResult> InvokeAsync()
+        public Task<IViewComponentResult> InvokeAsync()
         {
-            return Task.FromResult((IViewComponentResult) View("Default", datamanager.ServiceItems.GetServiceItems()));
+            return Task.FromResult((IViewComponentResult)View("Default", datamanager.ServiceItems.GetServiceItems()));
         }
     }
 }

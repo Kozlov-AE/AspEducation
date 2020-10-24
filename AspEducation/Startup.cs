@@ -52,12 +52,17 @@ namespace AspEducation
             {
                 o.Cookie.Name = "myCompanyAuth";
                 o.Cookie.HttpOnly = true;
-                o.LoginPath = "/account/accessdenied";
+                o.LoginPath = "/account/login"
+                o.AccessDeniedPath = "/account/accessdenied";
                 o.SlidingExpiration = true;
             });
 
+            //Настраиваем политику авторизации для Admin area
+            services.AddAuthorization(x => x.AddPolicy("AdminArea", p => p.RequireRole("admin")));
+
             //Добавляем сервисы для контроллеров и представлений MVC
-            services.AddControllersWithViews()
+            services.AddControllersWithViews( x => x.Conventions.Add(new AdminAreaAuthorization("Admin", "AdminArea")))
+                //Выставляем совместимость с asp.net core 3.0
                 .SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_3_0)
                 .AddSessionStateTempDataProvider();
 
@@ -86,6 +91,7 @@ namespace AspEducation
             //Регистрируем нужные нам маршруты
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapControllerRoute("admin", "{area:exists}/{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
             });
         }

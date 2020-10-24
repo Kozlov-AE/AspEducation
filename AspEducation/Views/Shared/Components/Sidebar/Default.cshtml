@@ -1,4 +1,4 @@
-@model IQueryable<ServiceItem> 
+@model IQueryable<AspEducation.Domain.Entities.ServiceItem> 
 
     @if(Model?.Any() == true)
     {
@@ -8,7 +8,7 @@
                 @foreach (var item in Model)
                 {
                     <li>
-                        <a asp-area="" asp-controller="Services" asp-action="Index" asp-route-id="@item.id">
+                        <a asp-area="" asp-controller="Services" asp-action="Index" asp-route-id="@item.Id">
                             <img src="~/images/@item.TitleImagePath" alt="" class="left" />
                         </a>
                     </li>

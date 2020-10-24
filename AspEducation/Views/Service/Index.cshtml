@@ -1,10 +1,10 @@
 @using AspEducation.Domain.Entities
-@model IQueryable<AspEducation.Domain.Entities.ServiceItem>
+@model IQueryable<ServiceItem>
 @{
     TextField textField = ViewBag.TextField;
-    ViewBag.Title = Model.MetaTitle;
-    ViewBag.Description = Model.MetaDescription;
-    ViewBag.KeyWords = Model.MetaKeywords;
+    ViewBag.Title = textField.MetaTitle;
+    ViewBag.Description = textField.MetaDescription;
+    ViewBag.KeyWords = textField.MetaKeywords;
 }
 <div>
     @if (@Model.Any())

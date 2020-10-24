@@ -1190,4 +1190,8 @@ ul.link-list li {
     font-size: 0.8em;
     line-height: 1.5em; }
     #copyright a {
-      color: #A6A88F; } }
+      color: #A6A88F; }
+  .div-box {
+    padding: 15px 0; }
+    .div-box label {
+      display: block; } }

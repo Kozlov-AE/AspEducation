@@ -1,1 +1,6 @@
-﻿!!! Sidebar
+﻿@using AspEducation.Models.ViewComponents
+<div class="col4 col-12-medium">
+    <cache>
+        @(await Component.InvokeAsync<SidebarViewComponent>());
+    </cache>
+</div>
